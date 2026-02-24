@@ -1,7 +1,7 @@
 Type: Package
 Package: sitrep
 Title: Report Templates and Helper Functions for Applied Epidemiology
-Version: 0.4.0
+Version: 0.4.1
 Authors@R: c(
     person("Alexander", "Spina", , "aspina@appliedepi.org", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-8425-1867")),
@@ -43,7 +43,7 @@ RoxygenNote: 7.3.3
 Collate: 'sitrep-package.R' 'check_templates.R'
         'metapackage_functions.R'
 NeedsCompilation: no
-Packaged: 2026-01-20 11:05:07 UTC; spina
+Packaged: 2026-02-24 09:10:27 UTC; spina
 Author: Alexander Spina [aut, cre] (ORCID:
     <https://orcid.org/0000-0001-8425-1867>),
   Zhian N. Kamvar [aut] (ORCID: <https://orcid.org/0000-0003-1458-7108>),
@@ -58,4 +58,4 @@ Author: Alexander Spina [aut, cre] (ORCID:
   Medecins Sans Frontieres Operational Centre Amsterdam [fnd]
 Maintainer: Alexander Spina <aspina@appliedepi.org>
 Repository: CRAN
-Date/Publication: 2026-01-20 11:20:02 UTC
+Date/Publication: 2026-02-24 09:30:02 UTC

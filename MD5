@@ -1,11 +1,11 @@
-ddb715e665f30ed57191edcc93c5cec6 *DESCRIPTION
+68bc28ab3b9dc59ddf277f5c81ac2d45 *DESCRIPTION
 2e671934415aa5f821034b706fa7bb4a *NAMESPACE
-fc8c6d09a516c84363d62fa09efda391 *NEWS.md
+3883f3a40e899253e37eb0ec623d513d *NEWS.md
 7b437b6589861afcf0ae058ba76a447c *R/check_templates.R
 09f7cca672a635da4796e5aee6e5c429 *R/metapackage_functions.R
 2eced35e8e9632614c17ca330aed8868 *R/sitrep-package.R
 098970c535380375b22d7b02ccc55ed2 *README.md
-619195332c5b8562ad0ecaaaa285257c *build/vignette.rds
+5c978172af25a90ad90dd1e2f5778e02 *build/vignette.rds
 e5c671c26b599c8f719f2a29060bd663 *inst/doc/Background.R
 def8c171135cf0fba9a28bf70276e051 *inst/doc/Background.Rmd
 43d6492f9c04c87b6777aec381235b08 *inst/doc/Background.html
@@ -28,7 +28,7 @@ da3abe83cf027cbf5bfd02fccf43483d *inst/rmarkdown/templates/ajs_intersectional_ou
 d43b1a3367476a7b673dfae66b4110c9 *inst/rmarkdown/templates/ajs_outbreak/template.yaml
 1f2a462abe82e732d91db39de84bb9ec *inst/rmarkdown/templates/ajs_outbreak_recode/skeleton/skeleton.Rmd
 9813c3e7fede7e51e703b7ad2fffc5eb *inst/rmarkdown/templates/ajs_outbreak_recode/template.yaml
-c331eb07fbfa56143c8c9eb06bcde0db *inst/rmarkdown/templates/cholera_intersectional_outbreak/skeleton/skeleton.Rmd
+c978cca7d14cb3489c2ef0c4f1aa7eb5 *inst/rmarkdown/templates/cholera_intersectional_outbreak/skeleton/skeleton.Rmd
 0b235d5d921b9b571a1a5c8d3c54e5f3 *inst/rmarkdown/templates/cholera_intersectional_outbreak/template.yaml
 bfc6d954e457a8d60562cef38c22539a *inst/rmarkdown/templates/cholera_outbreak/skeleton/skeleton.Rmd
 b221a7178bb4af3536d2f613958763c7 *inst/rmarkdown/templates/cholera_outbreak/template.yaml
